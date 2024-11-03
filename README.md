@@ -1,1 +1,1 @@
-<img src="c2.png"/>
+<img src="2new_cover.gif"/>
