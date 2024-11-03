@@ -1,1 +1,1 @@
-<img src="cover.png"/>
+<img src="c.png"/>
