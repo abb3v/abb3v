@@ -1,1 +1,1 @@
-<img src="2new_cover.gif"/>
+<img src="animated-cover-nodither.gif"/>
