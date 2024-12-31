@@ -5,5 +5,4 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abb3v&layout=compact&theme=transparent)
 
